@@ -1,2 +1,2 @@
 # Order-Book-Trade-Classification
-Binary classification models to predict trade order execution
+Stacked ensemble model to predict trade success or failure in dark pools (binary classification)
